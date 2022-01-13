@@ -1,7 +1,7 @@
 ### Hi,I'm Arijit Debnath!!
 
 - 🔭 I’m currently working on Web Development.
-- 🌱 I’m currently learning Data Structure and Algorithm,C++. 
+- 🌱 I’m currently learning Data Structure and Algorithm,C++,Machine learning(ML). 
 - 👯 I’m looking to collaborate on innovative tech stuffs.
 - 🤔 I’m looking for help with competitive programming.
 - 💬 Ask me about discrete mathematics and number theory.
