@@ -8,3 +8,4 @@
 - 📫 How to reach me: (https://instagram.com/_infinite_som)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I play football daily.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arijit-Debnath111 &theme=radical)
