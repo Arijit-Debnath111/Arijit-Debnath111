@@ -34,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijit-debnath111&show_icons=true&locale=en" alt="arijit-debnath111" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijit-debnath111&" alt="arijit-debnath111" /></p>
+
+## Watch my Contributions :-
+![snake gif](https://github.com/Arijit-Debnath111/Arijit-Debnath111/blob/output/github-contribution-grid-snake.gif)
