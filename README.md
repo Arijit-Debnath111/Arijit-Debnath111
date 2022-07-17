@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/_infinite_som" target="blank"><img src="https://img.shields.io/twitter/follow/_infinite_som?logo=twitter&style=for-the-badge" alt="_infinite_som" /></a> </p>
 
-- 🔭 I’m currently working on **CNN**
+- 🔭 I’m currently working on **TensorFlow,Keras**
 
-- 🌱 I’m currently learning **TensorFlow,Keras**
+- 🌱 I’m currently learning **Neural Network,CNN**
 
 - 👯 I’m looking to collaborate on **any interesting stuffs**
 
-- 🤝 I’m looking for help with **CP**
+- 🤝 I’m looking for help with **Competitive Programming**
 
 - 📫 How to reach me **debnatharijit10@gmail.com**
 
