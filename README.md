@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arijit Debnath</h1>
 <h3 align="center">An AI/ML enthusiast and web developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijit-debnath111&label=Profile%20views&color=0e75b6&style=flat" alt="arijit-debnath111" /> </p>
 
