@@ -1,3 +1,5 @@
+[![MasterHead](https://d1m75rqqgidzqn.cloudfront.net/wp-data/2021/04/30155455/ML.jpg)](https://Arijit-Debnath111.io)
+
 <h1 align="center">Hi 👋, I'm Arijit Debnath</h1>
 <h3 align="center">An AI/ML enthusiast and web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg">
